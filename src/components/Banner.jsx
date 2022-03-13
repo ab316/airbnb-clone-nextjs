@@ -1,10 +1,10 @@
 import Image from 'next/image';
-import React from 'react';
+import BannerImage from '../../public/img/banner.webp';
 
 const Banner = () => {
   return (
     <div className="relative h-[300px] sm:h-[400px] lg:h-[500px] xl:h-[600px] 2xl:h-[700px]">
-      <Image src="/img/banner.webp" layout="fill" objectFit="cover" alt="Banner" />
+      <Image src={BannerImage} layout="fill" objectFit="cover" alt="Banner" />
       <div className="absolute top-1/2 w-full text-center xl:top-2/3">
         <p className="mt-12 mb-3 text-sm font-semibold text-white sm:text-3xl md:text-4xl lg:text-5xl xl:mt-2">
           Let your curiosity do the booking

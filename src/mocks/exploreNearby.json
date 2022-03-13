@@ -1,0 +1,42 @@
+[
+  {
+    "img": "/img/nearby/gothenburg.webp",
+    "location": "Gothenburg",
+    "distance": "1 kilometer away"
+  },
+  {
+    "img": "/img/nearby/malmo.webp",
+    "location": "Malmö",
+    "distance": "268 kilometers away"
+  },
+  {
+    "img": "/img/nearby/visby.webp",
+    "location": "Visby",
+    "distance": "441 kilometers away"
+  },
+  {
+    "img": "/img/nearby/lund.webp",
+    "location": "Lund",
+    "distance": "259 kilometers away"
+  },
+  {
+    "img": "/img/nearby/stockholm.jpg",
+    "location": "Stockholm",
+    "distance": "463 kilometers away"
+  },
+  {
+    "img": "/img/nearby/uppsala.jpg",
+    "location": "Uppsala",
+    "distance": "457 kilometers away"
+  },
+  {
+    "img": "/img/nearby/copenhagen.jpg",
+    "location": "Copenhagen",
+    "distance": "312 kilometers away"
+  },
+  {
+    "img": "/img/nearby/oslo.jpg",
+    "location": "Oslo",
+    "distance": "292 kilometers away"
+  }
+]
